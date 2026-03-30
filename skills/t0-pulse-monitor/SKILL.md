@@ -1,5 +1,4 @@
----
-## 📦 t0-pulse-monitor/SKILL.md（完整版）
+---## 📦 t0-pulse-monitor/SKILL.md（完整版）
 ```markdown
 ---
 name: t0-pulse-monitor
